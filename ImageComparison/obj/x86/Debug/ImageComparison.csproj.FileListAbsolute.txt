@@ -1,0 +1,4 @@
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparison\bin\Debug\KirWa.ImageComparison.dll
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparison\bin\Debug\KirWa.ImageComparison.pdb
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparison\obj\x86\Debug\KirWa.ImageComparison.dll
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparison\obj\x86\Debug\KirWa.ImageComparison.pdb

@@ -1,0 +1,14 @@
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparisonWpfGui\bin\Debug\ImageComparisonWpfGui.exe
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparisonWpfGui\bin\Debug\ImageComparisonWpfGui.pdb
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.csprojResolveAssemblyReference.cache
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\MainWindow.baml
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\MainWindow.g.cs
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\App.g.cs
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui_MarkupCompile.cache
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.g.resources
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.Properties.Resources.resources
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.csproj.GenerateResource.Cache
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.exe
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.pdb
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparisonWpfGui\bin\Debug\KirWa.ImageComparison.dll
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ImageComparisonWpfGui\bin\Debug\KirWa.ImageComparison.pdb

@@ -1,0 +1,9 @@
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ConsoleComparison\bin\Debug\ConsoleImageComparison.exe
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ConsoleComparison\bin\Debug\ConsoleImageComparison.pdb
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ConsoleComparison\obj\x86\Debug\ConsoleImageComparison.exe
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ConsoleComparison\obj\x86\Debug\ConsoleImageComparison.pdb
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ConsoleComparison\obj\x86\Debug\ConsoleComparison.csprojResolveAssemblyReference.cache
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ConsoleComparison\bin\Debug\KirWa.ImageComparison.dll
+C:\Users\idnkiw\DEV\ImageComparisonSolution\ImageComparison\ConsoleComparison\bin\Debug\KirWa.ImageComparison.pdb
+C:\Users\idnkiw\DEV\ImageComparison\ConsoleComparison\obj\x86\Debug\ConsoleImageComparison.exe
+C:\Users\idnkiw\DEV\ImageComparison\ConsoleComparison\obj\x86\Debug\ConsoleImageComparison.pdb
